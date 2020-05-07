@@ -1,2 +1,2 @@
 # guessing
-Guess the number I'm thinking of
+Simple guessing game challenge
