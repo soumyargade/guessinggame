@@ -1,2 +1,2 @@
-# guessing
+# guessinggame
 Simple guessing game challenge
